@@ -1,4 +1,6 @@
-#Reddit App
+# Reddit App
+
+Collaborated with Jinwen Wu
 
 Prerequisites:
 1. Have Mongodb installed (https://www.mongodb.com/try/download/community)
@@ -18,3 +20,4 @@ Testing:
 2. Ensure that the phreddit database in mongodb has been dropped. 
 3. Then in the outmost directory run npm run test.
 4. After running the tests, make sure to initialize the database again by starting from step 3 in the main steps again when running the phreddit app.
+
